@@ -1,4 +1,4 @@
-# tOKEN CREATION
+# TOKEN CREATION
 
 Simple overview of use/purpose.
 
